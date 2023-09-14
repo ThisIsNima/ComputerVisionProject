@@ -1,3 +1,3 @@
 # Computer Vision Project
 
-An image classifier with CNN based architecure using Tensorflow and OpenCV.
+An image segmentation and classification project with CNN based architecure using Tensorflow and OpenCV.
